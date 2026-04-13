@@ -1,23 +1,81 @@
-# 💫 About Me:
-Hi there 👋, I'm Manan<br>I am an Information Technology undergraduate at the Indian Institute of Information Technology (IIIT), Una (Batch of 2028), with a strong focus on Machine Learning, MLOps, and Generative AI engineering. I enjoy building autonomous agents, tackling algorithmic challenges, and developing vision-based applications.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40,50&height=280&section=header&text=Manan&fontSize=100&animation=fadeIn&fontAlignY=35&desc=ML%20%26%20AI%20Enthusiast%20%7C%20IT%20Undergrad%20@%20IIIT%20Una&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" />
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=23D18B&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+MLOps;Generative+AI+Engineer;Competitive+Programmer+🏆" alt="Typing SVG" />
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manan.__.7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manan-babbar-2809091ab/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mananbabbar321@gmail.com) 
+## 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MananBabbar07&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MananBabbar07&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MananBabbar07&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🎓 **B.Tech IT** at **Indian Institute of Information Technology, Una** (2024–2028)
+- 🧠 Passionate about **Machine Learning**, **MLOps**, and **Generative AI**
+- 🚀 Focused on building autonomous agents and vision-based applications
+- 🌱 Currently mastering **Advanced DSA** (Graphs, Trees) and **LLM Fine-tuning / RAG**
+- 🏆 Competitive Programming: **Pupil on Codeforces** | **3-Star on CodeChef**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MananBabbar07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠️ Tech Stack
 
----
-[![](https://komarev.com/ghpvc/?username=MananBabbar07&icon=1&color=4)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,docker,fastapi,linux,git,github,vscode&perline=8" alt="Tech Stack" />
+</div>
+
+<br/>
+
+## 📈 GitHub Activity & Stats
+
+<div align="center">
+  <a href="https://github.com/MananBabbar07">
+    <img src="https://img.shields.io/github/followers/MananBabbar07?label=Followers&style=for-the-badge&color=23D18B&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/MananBabbar07">
+    <img src="https://img.shields.io/github/stars/MananBabbar07?label=Stars&style=for-the-badge&color=blueviolet&logo=github" alt="Stars" />
+  </a>
+  <a href="https://github.com/MananBabbar07">
+    <img src="https://img.shields.io/github/last-commit/MananBabbar07/MananBabbar07?label=Last%20Update&style=for-the-badge&color=FF5733&logo=github" alt="Last Commit" />
+  </a>
+
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MananBabbar07&bg_color=0D1117&color=23D18B&line=23D18B&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Junior-MLE** | *Autonomous MLOps system using local LLMs to generate and self-heal code.* | `Python` `Docker` `LLMs` |
+| **Stock Predictor Pipeline** | *Financial sentiment and technical analysis tool with real-time news integration.* | `FinBERT` `LSTM` `XGBoost` |
+| **Doomscroll Preventer** | *Vision-based distraction monitoring script using object detection.* | `Python` `OpenCV` `YOLO` |
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/manan-babbar-2809091ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mananbabbar321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/MananBabbar07">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>“Code. Create. Learn. Repeat.”</i>
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MananBabbar07&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+</div>
