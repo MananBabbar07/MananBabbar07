@@ -20,4 +20,4 @@ Hi there 👋, I'm Manan<br>I am an Information Technology undergraduate at the 
 ![](https://github-contributor-stats.vercel.app/api?username=MananBabbar07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MananBabbar07&icon=1&color=9)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=MananBabbar07&icon=1&color=4)](https://visitcount.itsvg.in)
