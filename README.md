@@ -9,9 +9,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech IT** at **Indian Institute of Information Technology, Una** (2024–2028)
-- 🧠 Passionate about **Machine Learning**, **MLOps**, and **Generative AI**
+- 🧠 Passionate about **Agentic AI**,**Generative AI** and  **Machine Learning**
 - 🚀 Focused on building autonomous agents and vision-based applications
-- 🌱 Currently mastering **Advanced DSA** (Graphs, Trees) and **LLM Fine-tuning / RAG**
+- 🌱 Currently mastering **Advanced DSA** (Graphs, Trees, DP) and **LLM Fine-tuning / RAG**
 - 🏆 Competitive Programming: **Pupil on Codeforces** | **3-Star on CodeChef**
 
 <br/>
