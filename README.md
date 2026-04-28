@@ -50,7 +50,7 @@
 | :--- | :--- | :--- |
 | **Junior-MLE** | *Autonomous MLOps system using local LLMs to generate and self-heal code.* | `Python` `Docker` `LLMs` |
 | **Stock Predictor Pipeline** | *Financial sentiment and technical analysis tool with real-time news integration.* | `FinBERT` `LSTM` `XGBoost` |
-| **Doomscroll Preventer** | *Vision-based distraction monitoring script using object detection.* | `Python` `OpenCV` `YOLO` |
+| **GenAI PDF Q&A System** | *RAG-based system for answering questions from PDFs with context-grounded responses.* | `Python` `LangCHain` `LLaMa` `Streamlit` `ChromaDB`|
 
 <br/>
 
